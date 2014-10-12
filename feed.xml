@@ -6,8 +6,8 @@
 </description>
     <link>http://lisaliuart.com/</link>
     <atom:link href="http://lisaliuart.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Oct 2014 03:00:03 +0800</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2014 03:00:03 +0800</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2014 17:02:15 +0800</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2014 17:02:15 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -127,6 +127,43 @@
       </item>
     
       <item>
+        <title>4 Worlds</title>
+        <description>&lt;main&gt;
+	&lt;a href=&quot;main-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;
+		&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;
+	&lt;/a&gt;
+
+	&lt;div class=&quot;cols-3&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			marker pen, &lt;br/&gt;
+			oil pencil on cardboard
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;For an artist, I find the imagination to be one of the greatest assets, but that needs to be continuously stimulated.&lt;/p&gt;
+			&lt;p&gt;I have found playing games to be one of the best ways of inspiration, as they are one of the most creative outlets out there.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;This artwork has been inspired from playing &lt;a href=&quot;http://thecavegame.com/&quot;&gt;The Cave&lt;/a&gt;, from the small game studio &lt;a href=&quot;http://www.doublefine.com/&quot;&gt;Double Fine&lt;/a&gt;. I have enjoyed several titles from them, as I believe they reuse the same talented artists.
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+
+&lt;figure&gt;
+	&lt;img src=&quot;icons.jpg&quot;/&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Powerups&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+        <link>http://lisaliuart.com/artworks/fourworlds</link>
+        <guid isPermaLink="true">http://lisaliuart.com/artworks/fourworlds</guid>
+        
+        
+        <category>artworks</category>
+        
+      </item>
+    
+      <item>
         <title>Moon Lake</title>
         <description>&lt;main&gt;
 	&lt;figure&gt;
@@ -180,6 +217,394 @@
         <pubDate>Mon, 02 Jan 2012 00:00:00 +0800</pubDate>
         <link>http://lisaliuart.com/artworks/moonlake</link>
         <guid isPermaLink="true">http://lisaliuart.com/artworks/moonlake</guid>
+        
+        
+        <category>artworks</category>
+        
+      </item>
+    
+      <item>
+        <title>The Great Race</title>
+        <description>&lt;main&gt;
+	&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;
+	
+	&lt;div class=&quot;cols-3&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			Animation, 2008&lt;br/&gt;
+			group project
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;Working on a children’s book is one of my professional goals, and this project was a good practice in this
+				direction.&lt;/p&gt;
+
+			&lt;p&gt;The Great Race is the story of the 12 animals represented in the Chinese zodiac, an ancient folk story that
+				describes the supposed personality of each of the zodiacal sign.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;The book was supposed to be published as an iPad interactive app, with subtle animations and interactions on
+				each page.&lt;/p&gt;
+
+			&lt;p&gt;Even though the project has been cancelled for financial reasons, it has been a valuable learning
+				experience.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+
+&lt;div class=&quot;grid grid-4&quot;&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p01-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Front cover&quot;&gt;
+	
+	&lt;img src=&quot;p01.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Front cover&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p02-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Main title&quot;&gt;
+	
+	&lt;img src=&quot;p02.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Main title&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p03-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A long, long time ago...&quot;&gt;
+	
+	&lt;img src=&quot;p03.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;A long, long time ago...&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p04-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A competition is announced&quot;&gt;
+	
+	&lt;img src=&quot;p04.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;A competition is announced&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p05-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Mouse and Cat were like brothers&quot;&gt;
+	
+	&lt;img src=&quot;p05.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Mouse and Cat were like brothers&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p06-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The Ox ride&quot;&gt;
+	
+	&lt;img src=&quot;p06.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The Ox ride&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p07-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The Mouse plots&quot;&gt;
+	
+	&lt;img src=&quot;p07.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The Mouse plots&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p08-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Mischievous mouse&quot;&gt;
+	
+	&lt;img src=&quot;p08.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Mischievous mouse&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p09-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The Cat is out&quot;&gt;
+	
+	&lt;img src=&quot;p09.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The Cat is out&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p10-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Good things don&#39;t come to those who wait&quot;&gt;
+	
+	&lt;img src=&quot;p10.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Good things don&#39;t come to those who wait&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p11-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The Dragon&#39;s horn&quot;&gt;
+	
+	&lt;img src=&quot;p11.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The Dragon&#39;s horn&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p12-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The Dragon and the Rabbit&quot;&gt;
+	
+	&lt;img src=&quot;p12.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The Dragon and the Rabbit&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p13-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The Snake&#39;s suit&quot;&gt;
+	
+	&lt;img src=&quot;p13.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The Snake&#39;s suit&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p14-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Snake before Horse&quot;&gt;
+	
+	&lt;img src=&quot;p14.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Snake before Horse&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p15-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;It&#39;s not a good time to monkey&quot;&gt;
+	
+	&lt;img src=&quot;p15.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;It&#39;s not a good time to monkey&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p16-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The bottoms will be red&quot;&gt;
+	
+	&lt;img src=&quot;p16.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The bottoms will be red&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p17-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The rooster&#39;s in a rush&quot;&gt;
+	
+	&lt;img src=&quot;p17.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The rooster&#39;s in a rush&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p18-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The rooster&#39;s crow&quot;&gt;
+	
+	&lt;img src=&quot;p18.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The rooster&#39;s crow&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p19-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A dog&#39;s life&quot;&gt;
+	
+	&lt;img src=&quot;p19.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;A dog&#39;s life&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p20-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The dog is lost&quot;&gt;
+	
+	&lt;img src=&quot;p20.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The dog is lost&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p21-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Sleeping like a pig&quot;&gt;
+	
+	&lt;img src=&quot;p21.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Sleeping like a pig&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p22-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Sinking like a stone&quot;&gt;
+	
+	&lt;img src=&quot;p22.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Sinking like a stone&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p23-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;The 12 animals of the zodiac&quot;&gt;
+	
+	&lt;img src=&quot;p23.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;The 12 animals of the zodiac&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p24-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Your Chinese Zodiac&quot;&gt;
+	
+	&lt;img src=&quot;p24.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Your Chinese Zodiac&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p25-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Origins 1&quot;&gt;
+	
+	&lt;img src=&quot;p25.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Origins 1&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p26-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Origins 2&quot;&gt;
+	
+	&lt;img src=&quot;p26.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Origins 2&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;p27-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Copyright&quot;&gt;
+	
+	&lt;img src=&quot;p27.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Copyright&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here are a few sketches used during production:&lt;/p&gt;
+
+
+&lt;div class=&quot;grid grid-3&quot;&gt;
+	
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;sketch02-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+			
+			&lt;img src=&quot;sketch02.jpg&quot;/&gt;
+			&lt;/a&gt;
+		
+		&lt;figcaption&gt;&amp;nbsp;&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
+	
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;sketch03-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+			
+			&lt;img src=&quot;sketch03.jpg&quot;/&gt;
+			&lt;/a&gt;
+		
+		&lt;figcaption&gt;&amp;nbsp;&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
+	
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;sketch01-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+			
+			&lt;img src=&quot;sketch01.jpg&quot;/&gt;
+			&lt;/a&gt;
+		
+		&lt;figcaption&gt;&amp;nbsp;&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
+	
+	&lt;div&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;</description>
+        <pubDate>Sun, 01 Jan 2012 00:00:00 +0800</pubDate>
+        <link>http://lisaliuart.com/artworks/greatrace</link>
+        <guid isPermaLink="true">http://lisaliuart.com/artworks/greatrace</guid>
         
         
         <category>artworks</category>
@@ -402,107 +827,6 @@
         <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
         <link>http://lisaliuart.com/artworks/delicioustaiwan</link>
         <guid isPermaLink="true">http://lisaliuart.com/artworks/delicioustaiwan</guid>
-        
-        
-        <category>artworks</category>
-        
-      </item>
-    
-      <item>
-        <title>Switch</title>
-        <description>&lt;main&gt;
-	&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;
-	
-	&lt;div class=&quot;cols-3&quot;&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			Animation, 2008&lt;br/&gt;
-			group project
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;The project Switch was my group graduation project that I worked on together with my colleagues and it was also presented as part of the Young Design Exhibition, Taiwan, a national exhibition of all the graduates. The short animation won the 3rd place.&lt;/p&gt;
-			&lt;p&gt;The project idea was to turn an illustrated book into a 3D animated popup book style.&lt;/p&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;The plot is about a naughty little boy who grow up in a wealthy family, and who likes to torture animals. The more suffering inflicts, the joyful he is. The story was chosen as a fable to certain human beings who are having this kind of behaviour among ourselves.&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/main&gt;
-
-&lt;figure&gt;
-	&lt;figcaption&gt;You can watch the whole animation project here.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;2.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;Character design&lt;/em&gt; &amp;ndash; My primary role in this project was as concept artist and character designer.&lt;/figcaption&gt;
-&lt;/figure&gt;
-		
-&lt;figure&gt;
-	&lt;img src=&quot;3.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;Brainstorming session&lt;/em&gt; &amp;ndash; picking the main characters&lt;/figcaption&gt;
-&lt;/figure&gt;
-		
-&lt;figure&gt;
-	&lt;img src=&quot;4.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;Assets&lt;/em&gt; &amp;ndash; a few assets used in the video production&lt;/figcaption&gt;
-&lt;/figure&gt;
-		
-&lt;figure&gt;
-	&lt;img src=&quot;5.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;More assets&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-	
-&lt;figure&gt;
-	&lt;img src=&quot;6.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;Facial expressions&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-		
-&lt;figure&gt;
-	&lt;img src=&quot;7.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;Experimenting&lt;/em&gt; &amp;ndash; having fun with my pencil&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;8.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;Design process&lt;/em&gt; &amp;ndash; a few sketches of the main character&lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Mon, 01 Jun 2009 00:00:00 +0800</pubDate>
-        <link>http://lisaliuart.com/artworks/switch</link>
-        <guid isPermaLink="true">http://lisaliuart.com/artworks/switch</guid>
-        
-        
-        <category>artworks</category>
-        
-      </item>
-    
-      <item>
-        <title>Daydream</title>
-        <description>&lt;main&gt;
-	&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;
-
-	&lt;div class=&quot;cols-3&quot;&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			marker pen, &lt;br/&gt;
-			oil pencil on cardboard
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;This is another personal artwork I have done in a blissful moment of my life. While I imagined sinking in my couch with a bowl of mouth-watering dessert, simply enjoying my favorite TV program.As if the mildy beautiful weather outside sneaked into my room, I was over the moon..&lt;/p&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;This personal drawing allows me to truly explore my imagination and let the kid emerges from me which appears on the piece of paper.&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/main&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;sketch-1-large.jpg&quot; data-lightbox=&quot;image-1&quot;&gt;&lt;img src=&quot;sketch-1.jpg&quot; class=&quot;border&quot;/&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Sketch&lt;/figcaption&gt;
-&lt;/figure&gt;
-	</description>
-        <pubDate>Thu, 01 May 2008 00:00:00 +0800</pubDate>
-        <link>http://lisaliuart.com/artworks/daydream</link>
-        <guid isPermaLink="true">http://lisaliuart.com/artworks/daydream</guid>
         
         
         <category>artworks</category>

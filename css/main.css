@@ -88,7 +88,7 @@ blockquote {
 /**
  * Clearfix
  */
-ul.artworks:after, .page:after, main .cols-3:after {
+.artworks:after, .page:after, main .cols-3:after {
   content: "";
   display: block;
   clear: both; }
@@ -108,7 +108,7 @@ ul.artworks:after, .page:after, main .cols-3:after {
 
 .site-nav {
   float: right;
-  padding: 24px 0; }
+  margin: 24px 0; }
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
@@ -117,7 +117,7 @@ ul.artworks:after, .page:after, main .cols-3:after {
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 650px) {
     .site-nav {
       position: absolute;
       top: 9px;
@@ -152,22 +152,25 @@ ul.artworks:after, .page:after, main .cols-3:after {
 /**
  * Artworks
  */
-ul.artworks {
+.artworks {
+  padding: 24px 48px;
   position: relative; }
-  ul.artworks, ul.artworks li {
+  .artworks ul, .artworks li {
     list-style: none;
     margin: 0;
     padding: 0; }
-  ul.artworks li {
+  .artworks li {
     background: #def;
     display: inline-block;
     position: relative;
     width: 25%;
-    float: left; }
-  ul.artworks img {
+    float: left;
+    border: solid 5px #fff;
+    box-sizing: border-box; }
+  .artworks img {
     width: 100%;
     height: auto; }
-  ul.artworks div {
+  .artworks div {
     position: absolute;
     top: 0;
     left: 0;
@@ -176,12 +179,18 @@ ul.artworks {
     padding: 24px;
     box-sizing: border-box;
     color: #fff;
-    background: rgba(0, 0, 0, 0.5);
-    display: none; }
-  ul.artworks li:hover div {
-    display: block; }
-  @media screen and (max-width: 600px) {
-    ul.artworks li {
+    background: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    transition: opacity .5s; }
+  .artworks li:hover div {
+    opacity: 1; }
+  .artworks li {
+    transition: opacity .5s, transform .2s; }
+  .artworks li:hover {
+    transform: scale(1.05);
+    z-index: 1; }
+  @media screen and (max-width: 650px) {
+    .artworks li {
       width: 33%; } }
 
 ul.artwork-thumbs {
@@ -191,19 +200,23 @@ ul.artwork-thumbs {
     margin: 0;
     padding: 0; }
   ul.artwork-thumbs li {
-    background: #def;
     display: inline-block;
     position: relative;
-    width: 50%; }
+    width: 50%;
+    padding: 5px;
+    box-sizing: border-box;
+    opacity: 0.5; }
   ul.artwork-thumbs li:nth-child(2n) {
     position: absolute;
     right: 0; }
   ul.artwork-thumbs img {
     width: 100%;
     height: auto; }
-  ul.artwork-thumbs .current {
-    border: solid 3px #fff;
-    box-sizing: border-box; }
+  ul.artwork-thumbs li {
+    transition: opacity .5s, transform .2s; }
+  ul.artwork-thumbs .current, ul.artwork-thumbs li:hover {
+    opacity: 1;
+    transform: scale(1.1); }
 
 /**
  * Page content
@@ -215,12 +228,6 @@ ul.artwork-thumbs {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 96px; }
-  @media screen and (max-width: 800px) {
-    .page {
-      max-width: -webkit-calc(800px - (24px));
-      max-width: calc(800px - (24px));
-      padding-right: 12px;
-      padding-left: 12px; } }
 
 .page-heading {
   font-size: 20px; }
@@ -260,6 +267,11 @@ main {
     text-align: left;
     color: #ff3333;
     font-style: italic; }
+  @media screen and (max-width: 650px) {
+    main .cols-3 .col {
+      float: none;
+      display: block;
+      width: 100% !important; } }
 
 figure {
   display: table;
@@ -279,9 +291,12 @@ a[data-lightbox] {
     width: 20px;
     height: 20px;
     bottom: 10px;
-    right: -30px; }
+    right: -30px;
+    opacity: 0.5;
+    transition: transform .2s; }
   a[data-lightbox]:hover:after {
-    transform: scale(1.2); }
+    opacity: 1;
+    transform: scale(1.3); }
 
 /**
  * Posts
@@ -321,12 +336,32 @@ a[data-lightbox] {
   right: 0;
   width: 200px;
   margin-right: 48px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 960px) {
     .post-side {
       display: none; } }
 
 .site-footer {
   padding: 24px 48px 48px 48px; }
+
+.grid {
+  position: relative;
+  text-align: justify; }
+  .grid > * {
+    display: inline-block;
+    vertical-align: bottom; }
+  .grid a:after {
+    right: 10px; }
+  .grid.grid-3 > * {
+    width: 30%; }
+  .grid.grid-4 > * {
+    width: 20%; }
+  .grid.grid-4 figcaption {
+    display: block;
+    font-size: 11px;
+    text-align: left;
+    line-height: 1em;
+    height: 2em;
+    padding-top: 5px; }
 
 .part-email {
   float: right;
@@ -353,3 +388,6 @@ a[data-lightbox] {
     display: none; }
   .site-title:active img:nth-child(2) {
     display: block; }
+  @media screen and (max-width: 650px) {
+    .site-title img {
+      max-width: 50%; } }
