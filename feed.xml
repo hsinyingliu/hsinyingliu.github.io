@@ -6,8 +6,8 @@
 </description>
     <link>http://lisaliuart.com/</link>
     <atom:link href="http://lisaliuart.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Oct 2014 02:02:29 +0800</pubDate>
-    <lastBuildDate>Tue, 14 Oct 2014 02:02:29 +0800</lastBuildDate>
+    <pubDate>Tue, 14 Oct 2014 02:08:55 +0800</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2014 02:08:55 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -73,103 +73,6 @@
         <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
         <link>http://lisaliuart.com/artworks/thecave</link>
         <guid isPermaLink="true">http://lisaliuart.com/artworks/thecave</guid>
-        
-        
-        <category>artworks</category>
-        
-      </item>
-    
-      <item>
-        <title>Ingredients</title>
-        <description>&lt;main&gt;
-	&lt;a href=&quot;1-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;
-		&lt;img class=&quot;main-picture&quot; src=&quot;1.jpg&quot;/&gt;
-	&lt;/a&gt;
-
-	&lt;div class=&quot;cols-3&quot;&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			digital painting
-			2014
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;The list of ingredients is my own exploration on creating a visual recipe while trying to preserve a little bit of the magic of the presented dish.&lt;/p&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;Besides illustration, cooking and food is my second love. I often find myself doodling some little pork chop on the side of the notebook, or tend to make little sketches for the shopping list, instead of just writing down a list. &lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/main&gt;
-
-&lt;p&gt;The second artwork is my illustrated culinary diary of a trip I took to Eastern Europe, of all the foods I tried and enjoyed, at least to my best of knowledge. The style I tried to apply in this drawing is of a textile pattern, using bright and flashy colours, as for printing on a kid’s tshirt.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;2-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;&lt;img src=&quot;2.jpg&quot;/&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;Eastern Food&lt;/em&gt; - A food pattern exploration&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;3-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;&lt;img src=&quot;3.jpg&quot;/&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;A jar of pickles&lt;/em&gt; &amp;ndash; Yumm!&lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-        <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
-        <link>http://lisaliuart.com/artworks/ingredients</link>
-        <guid isPermaLink="true">http://lisaliuart.com/artworks/ingredients</guid>
-        
-        
-        <category>artworks</category>
-        
-      </item>
-    
-      <item>
-        <title>Four Worlds</title>
-        <description>&lt;main&gt;
-	&lt;a href=&quot;main-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;
-		&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;
-	&lt;/a&gt;
-
-	&lt;div class=&quot;cols-3&quot;&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			vector illustration
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;Originally, this freelance work was supposed to be a background for a tile based game, where each side of the square represents a different level of the world, and it would keep rotating as the player progresses through the game.&lt;/p&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;The project manager was so impressed with the artworks that decided to change the original game idea to incorporate more of my illustrations and add subtle animations to bring them to life.&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/main&gt;
-
-
-&lt;figure&gt;
-	&lt;img src=&quot;icons.jpg&quot;/&gt;
-	&lt;figcaption&gt;&lt;em&gt;Powerups&lt;/em&gt; - A few game assets&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;figure&gt;
-	&lt;a href=&quot;wireframe-large.png&quot; data-lightbox=&quot;img&quot;&gt;
-	&lt;img src=&quot;wireframe.png&quot; srcset=&quot;wireframe.png 1x, wireframe@2x.png 2x&quot;/&gt;
-	&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;Wireframe&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-	&lt;a href=&quot;original-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;
-	&lt;img src=&quot;original.jpg&quot; srcset=&quot;original.jpg 1x, original@2x.jpg 2x&quot;/&gt;
-	&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;The original background&lt;/em&gt; that inspired the game.&lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
-        <link>http://lisaliuart.com/artworks/fourworlds</link>
-        <guid isPermaLink="true">http://lisaliuart.com/artworks/fourworlds</guid>
         
         
         <category>artworks</category>
@@ -685,42 +588,6 @@
       </item>
     
       <item>
-        <title>Heroes and Superheroes</title>
-        <description>&lt;main&gt;
-	&lt;a href=&quot;1-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;
-		&lt;img class=&quot;main-picture&quot; src=&quot;1.jpg&quot;/&gt;
-	&lt;/a&gt;
-
-	&lt;div class=&quot;cols-3&quot;&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			vector illustration
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;I grow up among tons of video games and cartoons and I remember so many of the characters, as I enjoyed them immensely. I used to sit on the carpet in front of the TV, having some snacks with my two older brothers and being mesmerized by all the elements.&lt;/p&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col&quot;&gt;
-			&lt;p&gt;Each character represents its own stories and reminds me of different stage of my childhood. Behind all of these characters I have preserved some valuable memories of mine. That&#39;s why I have placed all of them together, like they all live together in a close-knit village.&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/main&gt;
-
-
-&lt;p&gt;In the same series, but much later, I&#39;ve done this drawing on paper and coloured with micropens:&lt;/p&gt;
-&lt;figure&gt;
-	&lt;a href=&quot;2-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;&lt;img src=&quot;2.jpg&quot;/&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;Under Control&lt;/em&gt; - having a feeling of being manipulated all the time. &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Sat, 01 Jan 2011 00:00:00 +0800</pubDate>
-        <link>http://lisaliuart.com/artworks/heroes</link>
-        <guid isPermaLink="true">http://lisaliuart.com/artworks/heroes</guid>
-        
-        
-        <category>artworks</category>
-        
-      </item>
-    
-      <item>
         <title>Christmas cards</title>
         <description>&lt;main&gt;
 	&lt;a href=&quot;main-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Christmas Card&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;&lt;/a&gt;
@@ -842,6 +709,298 @@
         <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
         <link>http://lisaliuart.com/artworks/delicioustaiwan</link>
         <guid isPermaLink="true">http://lisaliuart.com/artworks/delicioustaiwan</guid>
+        
+        
+        <category>artworks</category>
+        
+      </item>
+    
+      <item>
+        <title>Switch</title>
+        <description>&lt;main&gt;
+	&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;
+	
+	&lt;div class=&quot;cols-3&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			animation (2009)&lt;br/&gt;
+      (group project)
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;The project &lt;em&gt;Switch&lt;/em&gt; was my graduation group project at Kun-Shan Unversity, my role in the project has been of the sole illustrator. &lt;/p&gt;
+      &lt;p&gt;The plot of the animation is about a naughty little boy who grow up in a wealthy family, and who likes to torture animals. The more suffering he inflicts, the joyful he is. &lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;The story was chosen as a fable to some human beings who are having this kind of behaviour in our society.&lt;/p&gt;
+      &lt;p&gt;The animation has won several awards, including the 3rd place at the Young Designers&#39; Exhibition, Taiwan, a national exhibition of all the graduates.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+&lt;/main&gt;
+
+
+&lt;figure&gt;
+	&lt;iframe width=&quot;600&quot; height=&quot;337&quot; src=&quot;//www.youtube-nocookie.com/embed/gEilhhn8ZQs?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; style=&quot;display: block;&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here are just a few of the illustrations I made for the project:&lt;/p&gt;
+
+&lt;div class=&quot;grid&quot;&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;1-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Main character - poses&quot;&gt;
+	
+	&lt;img src=&quot;1.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Main character - poses&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;2-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Various fish and bugs&quot;&gt;
+	
+	&lt;img src=&quot;2.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Various fish and bugs&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;3-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few stickers that we printed for the exhibition&quot;&gt;
+	
+	&lt;img src=&quot;3.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;A few stickers that we printed for the exhibition&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;4-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+	
+	&lt;img src=&quot;4.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;5-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More characters - poses&quot;&gt;
+	
+	&lt;img src=&quot;5.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;More characters - poses&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;6-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Trying out some character design ideas.&quot;&gt;
+	
+	&lt;img src=&quot;6.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Trying out some character design ideas.&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;7-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Can you recognize the characters?&quot;&gt;
+	
+	&lt;img src=&quot;7.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Can you recognize the characters?&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;8-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More expressions&quot;&gt;
+	
+	&lt;img src=&quot;8.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;More expressions&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;9-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few other friends&quot;&gt;
+	
+	&lt;img src=&quot;9.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;A few other friends&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;10-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Some artwork we used for the exhibition&quot;&gt;
+	
+	&lt;img src=&quot;10.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Some artwork we used for the exhibition&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;11-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;All natural, 100% organic, in tomato sauce&quot;&gt;
+	
+	&lt;img src=&quot;11.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;All natural, 100% organic, in tomato sauce&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;12-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More creative designs&quot;&gt;
+	
+	&lt;img src=&quot;12.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;More creative designs&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;13-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+	
+	&lt;img src=&quot;13.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;14-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+	
+	&lt;img src=&quot;14.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;15-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+	
+	&lt;img src=&quot;15.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	
+	&lt;a href=&quot;19-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few, quick sketches&quot;&gt;
+	
+	&lt;img src=&quot;19.jpg&quot;/&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;A few, quick sketches&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2009 00:00:00 +0800</pubDate>
+        <link>http://lisaliuart.com/artworks/switch</link>
+        <guid isPermaLink="true">http://lisaliuart.com/artworks/switch</guid>
+        
+        
+        <category>artworks</category>
+        
+      </item>
+    
+      <item>
+        <title>Daydream</title>
+        <description>&lt;main&gt;
+	&lt;img class=&quot;main-picture&quot; src=&quot;main.jpg&quot;/&gt;
+
+	&lt;div class=&quot;cols-3&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			marker pen, &lt;br/&gt;
+			oil pencil on cardboard
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;This is another personal artwork I have done in a blissful moment of my life. While I imagined sinking in my couch with a bowl of mouth-watering dessert, simply enjoying my favorite TV program.As if the mildy beautiful weather outside sneaked into my room, I was over the moon..&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;This personal drawing allows me to truly explore my imagination and let the kid emerges from me which appears on the piece of paper.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;sketch-1-large.jpg&quot; data-lightbox=&quot;image-1&quot;&gt;&lt;img src=&quot;sketch-1.jpg&quot; class=&quot;border&quot;/&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Sketch&lt;/figcaption&gt;
+&lt;/figure&gt;
+	</description>
+        <pubDate>Thu, 01 May 2008 00:00:00 +0800</pubDate>
+        <link>http://lisaliuart.com/artworks/daydream</link>
+        <guid isPermaLink="true">http://lisaliuart.com/artworks/daydream</guid>
+        
+        
+        <category>artworks</category>
+        
+      </item>
+    
+      <item>
+        <title>Ingredients</title>
+        <description>&lt;main&gt;
+	&lt;a href=&quot;1-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;
+		&lt;img class=&quot;main-picture&quot; src=&quot;1.jpg&quot;/&gt;
+	&lt;/a&gt;
+
+	&lt;div class=&quot;cols-3&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			digital painting
+			2014
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;The list of ingredients is my own exploration on creating a visual recipe while trying to preserve a little bit of the magic of the presented dish.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;col&quot;&gt;
+			&lt;p&gt;Besides illustration, cooking and food is my second love. I often find myself doodling some little pork chop on the side of the notebook, or tend to make little sketches for the shopping list, instead of just writing down a list. &lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/main&gt;
+
+&lt;p&gt;The second artwork is my illustrated culinary diary of a trip I took to Eastern Europe, of all the foods I tried and enjoyed, at least to my best of knowledge. The style I tried to apply in this drawing is of a textile pattern, using bright and flashy colours, as for printing on a kid’s tshirt.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;2-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;&lt;img src=&quot;2.jpg&quot;/&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;em&gt;Eastern Food&lt;/em&gt; - A food pattern exploration&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;3-large.jpg&quot; data-lightbox=&quot;img&quot;&gt;&lt;img src=&quot;3.jpg&quot;/&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;em&gt;A jar of pickles&lt;/em&gt; &amp;ndash; Yumm!&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+        <pubDate>Tue, 01 Apr 2008 00:00:00 +0800</pubDate>
+        <link>http://lisaliuart.com/artworks/ingredients</link>
+        <guid isPermaLink="true">http://lisaliuart.com/artworks/ingredients</guid>
         
         
         <category>artworks</category>
