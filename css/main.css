@@ -330,15 +330,6 @@ a[data-lightbox] {
       .post-content h4 {
         font-size: 18px; } }
 
-.post-side {
-  position: absolute;
-  right: 0;
-  width: 200px;
-  margin-right: 48px; }
-  @media screen and (max-width: 960px) {
-    .post-side {
-      display: none; } }
-
 .site-footer {
   padding: 24px 48px 48px 48px; }
 
@@ -362,9 +353,29 @@ a[data-lightbox] {
     height: 2em;
     padding-top: 5px; }
 
+.post-side {
+  position: absolute;
+  right: 0;
+  width: 200px;
+  margin-right: 48px; }
+  @media screen and (max-width: 960px) {
+    .post-side {
+      display: none; } }
+
+@media screen and (min-width: 960px) {
+  .post-content {
+    min-height: 970px; } }
+.site-footer {
+  text-align: justify;
+  text-align-last: justify; }
+  .site-footer > * {
+    display: inline-block;
+    vertical-align: middle; }
+
+.fb-like {
+  padding: 20px 0; }
+
 .part-email {
-  float: right;
-  margin-bottom: 24px;
   text-align: center; }
   .part-email a {
     color: #666;
