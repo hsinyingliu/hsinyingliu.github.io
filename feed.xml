@@ -6,18 +6,18 @@
 </description>
     <link>http://lisaliuart.com/</link>
     <atom:link href="http://lisaliuart.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 18 Oct 2014 14:45:18 +0800</pubDate>
-    <lastBuildDate>Sat, 18 Oct 2014 14:45:18 +0800</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2014 23:41:43 +0800</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2014 23:41:43 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Welcome</title>
-        <description>&lt;p&gt;Welcome to my portfolio website.
-I have created this website to post all my artworks from hereon.&lt;/p&gt;
+        <description>&lt;p&gt;Welcome to my portfolio website!&lt;/p&gt;
 
-&lt;p&gt;I originally made the website to apply for a master degree in UK, but I will keep you posted on how that is going on.&lt;/p&gt;
+&lt;p&gt;I have created this website to post all my artworks from hereon.
+I originally made the website to apply for master degree in UK, but I will keep you posted on how that is going on.&lt;/p&gt;
 
-&lt;p&gt;Thank you for reading my website!&lt;/p&gt;
+&lt;p&gt;Thank you for reading my website, and feel free to leave me a comment!&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Oct 2014 00:00:00 +0800</pubDate>
         <link>http://lisaliuart.com/blog/general/2014/10/11/welcome.html</link>
@@ -791,180 +791,182 @@ I have created this website to post all my artworks from hereon.&lt;/p&gt;
 &lt;p&gt;Here are just a few of the illustrations I made for the project:&lt;/p&gt;
 
 &lt;div class=&quot;grid&quot;&gt;
-
-&lt;figure&gt;
 	
-	&lt;a href=&quot;1-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Main character - poses&quot;&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;1-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Main character - poses&quot;&gt;
+		
+		&lt;img src=&quot;1.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Main character - poses&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;img src=&quot;1.jpg&quot;/&gt;
-	&lt;/a&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;2-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Various fish and bugs&quot;&gt;
+		
+		&lt;img src=&quot;2.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Various fish and bugs&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;figcaption&gt;Main character - poses&lt;/figcaption&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;3-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few stickers that we printed for the exhibition&quot;&gt;
+		
+		&lt;img src=&quot;3.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;A few stickers that we printed for the exhibition&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-&lt;/figure&gt;
-
-&lt;figure&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;4-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+		
+		&lt;img src=&quot;4.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;a href=&quot;2-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Various fish and bugs&quot;&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;5-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More characters - poses&quot;&gt;
+		
+		&lt;img src=&quot;5.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;More characters - poses&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;img src=&quot;2.jpg&quot;/&gt;
-	&lt;/a&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;6-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Trying out some character design ideas.&quot;&gt;
+		
+		&lt;img src=&quot;6.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Trying out some character design ideas.&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;figcaption&gt;Various fish and bugs&lt;/figcaption&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;7-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Can you recognize the characters?&quot;&gt;
+		
+		&lt;img src=&quot;7.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Can you recognize the characters?&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-&lt;/figure&gt;
-
-&lt;figure&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;8-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More expressions&quot;&gt;
+		
+		&lt;img src=&quot;8.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;More expressions&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;a href=&quot;3-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few stickers that we printed for the exhibition&quot;&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;9-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few other friends&quot;&gt;
+		
+		&lt;img src=&quot;9.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;A few other friends&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;img src=&quot;3.jpg&quot;/&gt;
-	&lt;/a&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;10-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Some artwork we used for the exhibition&quot;&gt;
+		
+		&lt;img src=&quot;10.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Some artwork we used for the exhibition&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;figcaption&gt;A few stickers that we printed for the exhibition&lt;/figcaption&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;11-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;All natural, 100% organic, in tomato sauce&quot;&gt;
+		
+		&lt;img src=&quot;11.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;All natural, 100% organic, in tomato sauce&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-&lt;/figure&gt;
-
-&lt;figure&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;12-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More creative designs&quot;&gt;
+		
+		&lt;img src=&quot;12.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;More creative designs&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;a href=&quot;4-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;13-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+		
+		&lt;img src=&quot;13.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;img src=&quot;4.jpg&quot;/&gt;
-	&lt;/a&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;14-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+		
+		&lt;img src=&quot;14.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+	&lt;/figure&gt;
 	
-&lt;/figure&gt;
-
-&lt;figure&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;15-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
+		
+		&lt;img src=&quot;15.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;a href=&quot;5-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More characters - poses&quot;&gt;
+	&lt;figure&gt;
+		
+		&lt;a href=&quot;19-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few, quick sketches&quot;&gt;
+		
+		&lt;img src=&quot;19.jpg&quot;/&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;A few, quick sketches&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;
 	
-	&lt;img src=&quot;5.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;More characters - poses&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;6-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Trying out some character design ideas.&quot;&gt;
-	
-	&lt;img src=&quot;6.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Trying out some character design ideas.&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;7-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Can you recognize the characters?&quot;&gt;
-	
-	&lt;img src=&quot;7.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Can you recognize the characters?&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;8-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More expressions&quot;&gt;
-	
-	&lt;img src=&quot;8.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;More expressions&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;9-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few other friends&quot;&gt;
-	
-	&lt;img src=&quot;9.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;A few other friends&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;10-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;Some artwork we used for the exhibition&quot;&gt;
-	
-	&lt;img src=&quot;10.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Some artwork we used for the exhibition&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;11-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;All natural, 100% organic, in tomato sauce&quot;&gt;
-	
-	&lt;img src=&quot;11.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;All natural, 100% organic, in tomato sauce&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;12-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;More creative designs&quot;&gt;
-	
-	&lt;img src=&quot;12.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;More creative designs&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;13-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
-	
-	&lt;img src=&quot;13.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;14-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
-	
-	&lt;img src=&quot;14.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;15-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;&quot;&gt;
-	
-	&lt;img src=&quot;15.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	
-	&lt;a href=&quot;19-large.jpg&quot; data-lightbox=&quot;pic&quot; data-title=&quot;A few, quick sketches&quot;&gt;
-	
-	&lt;img src=&quot;19.jpg&quot;/&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;A few, quick sketches&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-
-&lt;div&gt;&lt;/div&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;div&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;Awards&lt;/h1&gt;
 </description>
         <pubDate>Mon, 01 Jun 2009 00:00:00 +0800</pubDate>
         <link>http://lisaliuart.com/artworks/switch</link>

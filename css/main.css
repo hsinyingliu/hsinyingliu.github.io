@@ -182,7 +182,8 @@ blockquote {
     color: #fff;
     background: rgba(0, 0, 0, 0.6);
     opacity: 0;
-    transition: opacity .5s; }
+    transition: opacity .5s;
+    overflow: hidden; }
   .artworks li:hover div {
     opacity: 1; }
   .artworks li {
@@ -193,31 +194,6 @@ blockquote {
   @media screen and (max-width: 650px) {
     .artworks li {
       width: 33%; } }
-
-ul.artwork-thumbs {
-  position: relative; }
-  ul.artwork-thumbs, ul.artwork-thumbs li {
-    list-style: none;
-    margin: 0;
-    padding: 0; }
-  ul.artwork-thumbs li {
-    display: inline-block;
-    position: relative;
-    width: 50%;
-    padding: 5px;
-    box-sizing: border-box;
-    opacity: 0.5; }
-  ul.artwork-thumbs li:nth-child(2n) {
-    position: absolute;
-    right: 0; }
-  ul.artwork-thumbs img {
-    width: 100%;
-    height: auto; }
-  ul.artwork-thumbs li {
-    transition: opacity .5s, transform .2s; }
-  ul.artwork-thumbs .current, ul.artwork-thumbs li:hover {
-    opacity: 1;
-    transform: scale(1.1); }
 
 /**
  * Page content
@@ -308,29 +284,33 @@ a[data-lightbox] {
 .post-header {
   margin: 24px 24px 24px 48px; }
 
+h1, h2, h3 {
+  font: 26px "Permanent Marker", sans-serif; }
+
 .post-title {
-  font: 26px "Permanent Marker", sans-serif;
   letter-spacing: -1px;
   line-height: 1; }
 
-.post-content {
-  max-width: 600px;
+.post-content, .post-content-artwork {
   margin: 24px 48px 48px 48px; }
-  .post-content h2 {
-    font-size: 32px; }
+  .post-content h2, .post-content-artwork h2 {
+    font-size: 24px; }
     @media screen and (max-width: 800px) {
-      .post-content h2 {
+      .post-content h2, .post-content-artwork h2 {
         font-size: 28px; } }
-  .post-content h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 800px) {
-      .post-content h3 {
-        font-size: 22px; } }
-  .post-content h4 {
+  .post-content h3, .post-content-artwork h3 {
     font-size: 20px; }
     @media screen and (max-width: 800px) {
-      .post-content h4 {
+      .post-content h3, .post-content-artwork h3 {
+        font-size: 22px; } }
+  .post-content h4, .post-content-artwork h4 {
+    font-size: 20px; }
+    @media screen and (max-width: 800px) {
+      .post-content h4, .post-content-artwork h4 {
         font-size: 18px; } }
+
+.post-content-artwork {
+  max-width: 600px; }
 
 .site-footer {
   padding: 24px 48px 48px 48px; }
@@ -357,6 +337,7 @@ a[data-lightbox] {
 
 .post-side {
   position: absolute;
+  top: 45px;
   right: 0;
   width: 200px;
   margin-right: 48px; }
@@ -364,8 +345,29 @@ a[data-lightbox] {
     .post-side {
       display: none; } }
 
+ul.artwork-thumbs {
+  position: relative; }
+  ul.artwork-thumbs, ul.artwork-thumbs li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0; }
+  ul.artwork-thumbs li {
+    display: inline-block;
+    position: relative;
+    margin: 5px;
+    box-sizing: border-box;
+    opacity: 0.5; }
+  ul.artwork-thumbs a, ul.artwork-thumbs img {
+    display: inline-block; }
+  ul.artwork-thumbs li {
+    transition: opacity .5s, transform .2s; }
+  ul.artwork-thumbs .current, ul.artwork-thumbs li:hover {
+    opacity: 1;
+    transform: scale(1.1); }
+
 @media screen and (min-width: 960px) {
-  .post-content {
+  .post-content-artwork {
     min-height: 970px; } }
 .site-footer {
   text-align: justify;
@@ -403,3 +405,18 @@ a[data-lightbox] {
   @media screen and (max-width: 650px) {
     .site-title img {
       max-width: 50%; } }
+
+hr {
+  clear: both;
+  border: none;
+  background: #eee;
+  height: 2px;
+  margin: 48px 0; }
+
+#disqus_thread {
+  padding: 48px; }
+
+ul.blog-index {
+  margin: 48px; }
+  ul.blog-index ul, ul.blog-index li {
+    list-style: none; }
