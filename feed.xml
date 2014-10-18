@@ -6,8 +6,8 @@
 </description>
     <link>http://lisaliuart.com/</link>
     <atom:link href="http://lisaliuart.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 18 Oct 2014 14:37:03 +0800</pubDate>
-    <lastBuildDate>Sat, 18 Oct 2014 14:37:03 +0800</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2014 14:45:18 +0800</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2014 14:45:18 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -507,7 +507,13 @@ I have created this website to post all my artworks from hereon.&lt;/p&gt;
 &lt;figure&gt;
 	&lt;a href=&quot;proc-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Work in progress&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;proc.jpg&quot;/&gt;&lt;/a&gt;
 	&lt;figcaption&gt;&lt;em&gt;A draft version&lt;/em&gt; &amp;ndash; Moon Lake from another point of view&lt;/figcaption&gt;
-&lt;/figure&gt;</description>
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;process-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Process&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;process.jpg&quot;/&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;em&gt;Process sketch&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
         <pubDate>Mon, 02 Jan 2012 00:00:00 +0800</pubDate>
         <link>http://lisaliuart.com/artworks/moonlake</link>
         <guid isPermaLink="true">http://lisaliuart.com/artworks/moonlake</guid>
