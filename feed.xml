@@ -6,8 +6,8 @@
 </description>
     <link>http://lisaliuart.com/</link>
     <atom:link href="http://lisaliuart.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Oct 2014 21:24:11 +0800</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2014 21:24:11 +0800</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2014 22:42:01 +0800</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2014 22:42:01 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -710,18 +710,18 @@ I originally made the website to apply for master degree in UK, but I will keep 
 
 
 &lt;figure&gt;
-	&lt;a href=&quot;process1-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Process sketch 1&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;process1.jpg&quot;/&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;Process sketch 1&lt;/em&gt;&lt;/figcaption&gt;
+	&lt;a href=&quot;process1-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Process sketch&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;process1.jpg&quot;/&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;em&gt;Process sketch&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;figure&gt;
-	&lt;a href=&quot;process3-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Process sketch 3&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;process3.jpg&quot;/&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;Process sketch 2&lt;/em&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;!--&lt;figure&gt;--&gt;
+	&lt;!--&lt;a href=&quot;process3-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Process sketch 3&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;process3.jpg&quot;/&gt;&lt;/a&gt;--&gt;
+	&lt;!--&lt;figcaption&gt;&lt;em&gt;Process sketch 2&lt;/em&gt;&lt;/figcaption&gt;--&gt;
+&lt;!--&lt;/figure&gt;--&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;process2-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Process sketch 2&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;process2.jpg&quot;/&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;em&gt;Process sketch 3&lt;/em&gt;&lt;/figcaption&gt;
+	&lt;a href=&quot;process2-large.jpg&quot; data-lightbox=&quot;alishan&quot; data-title=&quot;Process sketch&quot;&gt;&lt;img class=&quot;main-picture&quot; src=&quot;process2.jpg&quot;/&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;em&gt;Process sketch&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
         <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
